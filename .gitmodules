@@ -1,3 +1,6 @@
 [submodule "test_website_private"]
 	path = test_website_private
 	url = https://github.com/Brad330/test_website_private.git
+[submodule "test_script_private"]
+	path = test_script_private
+	url = https://github.com/Brad330/test_script_private.git
